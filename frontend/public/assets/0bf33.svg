@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="200" height="36.8198" viewBox="0 0 200 36.8198" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_0_81" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="203" height="37">
+<path id="Arrow 1" d="M0 18.4099V20.9099H200V18.4099V15.9099H0V18.4099ZM201.768 20.1777C202.744 19.2014 202.744 17.6184 201.768 16.6421L185.858 0.732233C184.882 -0.244078 183.299 -0.244078 182.322 0.732233C181.346 1.70854 181.346 3.29146 182.322 4.26777L196.464 18.4099L182.322 32.552C181.346 33.5283 181.346 35.1113 182.322 36.0876C183.299 37.0639 184.882 37.0639 185.858 36.0876L201.768 20.1777Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_81)">
+<rect id="Rectangle 1" x="-256" y="-4.5901" width="257" height="45" fill="url(#paint0_linear_0_81)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_81" x1="-256" y1="-4.5901" x2="1" y2="-4.5901" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF0000"/>
+<stop offset="0.489" stop-color="#42FF00"/>
+<stop offset="1" stop-color="#2400FF"/>
+</linearGradient>
+</defs>
+</svg>
