@@ -1,7 +1,7 @@
 {
   "description": "A polished video editor portfolio template showcases services, featured projects, experience, and contact options to help clients evaluate and hire an editor.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
